@@ -1,16 +1,43 @@
-### Hi there 👋
+<h3 align="center">
+  <samp>Hi!👋 I'm <b><a href="https://gabrielsuazo.tech">Gabriel Suazo</a></b></samp>
+</h3>
+<p align="center">
+  <samp>[ Passionate Developer and Tech Enthusiast | Computational Systems Engineering Student @ UNAH ]</samp>
+</p>
 
-<!--
-**gasc1211/gasc1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>Details</summary>
+  
+  ### About me
+  My name is Gabriel Suazo. I'm an introvert on his way to becoming an engineer. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### What am I up to recently?
+  - 🌱 I'm currently learning about *AI Agents and Agentic Workflows*
+  - 🧑‍💻 Currently doing an internship @ Tigo Honduras in the BI Team
+  
+  ### Programming Languages and Tools
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python,react,next,astro,tailwind,figma,nodejs,graphql,docker,linux,azure,git,neovim&perline=9)](https://skillicons.dev)
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/?username=gasc1211&layout=compact&theme=catppuccin_mocha&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/?username=gasc1211&layout=compact&theme=catppuccin_latte&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/?username=gasc1211&layout=compact&theme=catppuccin_latte&hide_border=true" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gasc1211&layout=compact&theme=catppuccin_mocha&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gasc1211&layout=compact&theme=catppuccin_latte&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasc1211&layout=compact&theme=catppuccin_latte&hide_border=true" />
+  </picture>
+</details>
